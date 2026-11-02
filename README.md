@@ -27,7 +27,7 @@ Save Memories is a social media application where users can share their travel e
 
 ## Screenshots
 
-/screenshots/memories-main.png
+![Save memories](./screenshots/memories-main.png)
 
 ## Getting Started
 
